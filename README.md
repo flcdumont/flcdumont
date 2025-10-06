@@ -2,7 +2,7 @@
 
 **`💼 Analista de Dados & Consultor de Dados | Especialista em IA/LLM`**
 
-Referência em Data Strategy
+Referência em Data Strategy |
 Analista de Dados & Consultor de Dados | Especialista em IA/LLM
 
 Nos próximos anos, dashboards e automações simples vão ser ainda mais fáceis e baratos de montar. Isso significa que a demanda por quem sabe transformar dado em decisão (consultor/estrategista) continua, mas quem só monta dashboard sem contexto vai ser substituído.
