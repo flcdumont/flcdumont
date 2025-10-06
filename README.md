@@ -6,7 +6,9 @@ Referência em Data Strategy |
 Analista de Dados & Consultor de Dados | Especialista em IA/LLM
 
 Nos próximos anos, dashboards e automações simples vão ser ainda mais fáceis e baratos de montar. Isso significa que a demanda por quem sabe transformar dado em decisão (consultor/estrategista) continua, mas quem só monta dashboard sem contexto vai ser substituído.
-*Por isso, sou especialista em transformar dados brutos em decisões estratégicas e previsões inteligente para social media, e-commerce e marketing digital. Você não precisa perder tempo com planilhas complexas ou análises que não levam a lugar algum. Eu converto seus dados em ações claras e resultados reais para social media, e-commerce e marketing digital.
+Por isso, sou especialista em transformar dados brutos em decisões estratégicas e previsões inteligente para social media, e-commerce e marketing digital. Você não precisa perder tempo com planilhas complexas ou análises que não levam a lugar algum. Eu converto seus dados em ações claras e resultados reais para social media, e-commerce e marketing digital. Essa é a missão da Dumont, um projeto formado por Felipe Costa para ajudar empresas a analisar seus dados e aumentar suas vendas e engajamento, conquistando sua estabilidade no digital!
+
+📩 Quer transformar dados em resultados reais? [Fale comigo](https://wa.me/5517992285810)
 
 <p align="left">
     <a href="[https://github.com/flcdumont?tab=repositories]&sort=stargazers">
