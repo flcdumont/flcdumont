@@ -2,8 +2,7 @@
 
 **`💼 Analista de Dados & Consultor de Dados | Especialista em IA/LLM`**
 
-Referência em Data Strategy |
-Analista de Dados & Consultor de Dados | Especialista em IA/LLM
+Referência em Data Strategy
 
 Nos próximos anos, dashboards e automações simples vão ser ainda mais fáceis e baratos de montar. Isso significa que a demanda por quem sabe transformar dado em decisão (consultor/estrategista) continua, mas quem só monta dashboard sem contexto vai ser substituído.
 
@@ -11,7 +10,12 @@ Por isso, sou especialista em transformar dados brutos em decisões estratégica
 Você não precisa perder tempo com planilhas complexas ou análises que não levam a lugar algum.  
 Eu converto seus dados em ações claras e resultados reais. Essa é a missão da **Dumont**, um projeto criado por **Felipe Costa** para ajudar empresas a analisar seus dados e aumentar suas vendas e engajamento, conquistando sua estabilidade no digital!
 
-📩 Quer transformar dados em resultados reais? [Fale comigo](https://wa.me/5517992285810)
+<p align="center">
+📩 Quer transformar dados em resultados reais?  
+<a href="https://wa.me/5517992285810">
+  <img src="https://img.shields.io/badge/Fale%20Comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -138,7 +142,6 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flcdumont&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flcdumont&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
