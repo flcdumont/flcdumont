@@ -57,19 +57,27 @@ Por isso, sou especialista em transformar dados brutos em decisões estratégica
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="TensorFlow"
+    title="TensorFlow" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" 
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="PyTorch" 
+    title="PyTorch"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://duckduckgo.com/i/463df6d3.png" 
 />
 <img 
     align="left" 
