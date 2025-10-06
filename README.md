@@ -37,14 +37,6 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 
 ---
 
-### 🚀 Proposta de Valor
-
-- Não vendo horas → entrego resultados concretos  
-- ROI imediato com dados acionáveis + automação + relatórios claros  
-- Impacto esperado: mais vendas, ticket médio maior e menor churn  
-
----
-
 ### 💼 Serviços
 
 1. **Coleta de Dados** → redes sociais, sites e e-commerce de forma automatizada  
