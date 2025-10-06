@@ -97,19 +97,11 @@ Por isso, sou especialista em transformar dados brutos em decisões estratégica
 />
 <img 
     align="left" 
-    alt="Looker Studio" 
-    title="Looker Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.seeklogo.com/logo-png/61/1/looker-studio-logo-png_seeklogo-617989.png" 
-/>
-<img 
-    align="left" 
     alt="BigQuery" 
     title="BigQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img1.pnghut.com/21/7/20/BgYtELD4YD/cloud-computing-query-language-database-big-data-area.jpg" 
+    src="https://www.clipartmax.com/png/small/200-2001825_bigquery-analytics-data-warehouse-google-cloud-big-query-icon.png"
 />
 <img 
     align="left" 
