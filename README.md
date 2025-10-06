@@ -55,6 +55,16 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 
 ---
 
+### 🌟 Projetos em Destaque
+
+| Projeto | Descrição | Badges |
+|----------|------------|--------|
+| 📊 [**Instagram Social Analytics**](https://github.com/flcdumont/Instagram-Social-Analytics-Investimentos) | Coleta e análise de dados de perfis do Instagram para insights estratégicos de engajamento. | ![Stars](https://img.shields.io/github/stars/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=yellow) ![Forks](https://img.shields.io/github/forks/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=orange) |
+| 🧠 [**LLM Assistant para Dados**](#) | Modelo de IA treinado para responder perguntas e gerar relatórios sobre KPIs. *(Em desenvolvimento)* | ![Language](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) |
+| 🎮 [**Fortdle**](https://github.com/flcdumont/Fortdle) | Jogo de adivinhação inspirado no universo Fortnite, com análise de padrões de jogadores. | ![Stars](https://img.shields.io/github/stars/flcdumont/Fortdle?style=flat-square&color=yellow) ![Forks](https://img.shields.io/github/forks/flcdumont/Fortdle?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/flcdumont/Fortdle?style=flat-square&color=orange) |
+
+---
+
 ### 🧠 Skills & Competências
 
 #### 🔹 **Visão de Negócio (Business Sense)**
@@ -125,16 +135,6 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" style="padding-right: 10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30px" style="padding-right: 10px;" />
 </p>
-
----
-
-### 🌟 Projetos em Destaque
-
-| Projeto | Descrição | Badges |
-|----------|------------|--------|
-| 📊 [**Instagram Social Analytics**](https://github.com/flcdumont/Instagram-Social-Analytics-Investimentos) | Coleta e análise de dados de perfis do Instagram para insights estratégicos de engajamento. | ![Stars](https://img.shields.io/github/stars/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=yellow) ![Forks](https://img.shields.io/github/forks/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/flcdumont/Instagram-Social-Analytics-Investimentos?style=flat-square&color=orange) |
-| 🧠 [**LLM Assistant para Dados**](#) | Modelo de IA treinado para responder perguntas e gerar relatórios sobre KPIs. *(Em desenvolvimento)* | ![Language](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) |
-| 🎮 [**Fortdle**](https://github.com/flcdumont/Fortdle) | Jogo de adivinhação inspirado no universo Fortnite, com análise de padrões de jogadores. | ![Stars](https://img.shields.io/github/stars/flcdumont/Fortdle?style=flat-square&color=yellow) ![Forks](https://img.shields.io/github/forks/flcdumont/Fortdle?style=flat-square&color=blue) ![Language](https://img.shields.io/github/languages/top/flcdumont/Fortdle?style=flat-square&color=orange) |
 
 ---
 
