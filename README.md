@@ -28,15 +28,6 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 
 ---
 
-### 🏆 Resultados que você vê
-
-- Vendas e engajamento sobem 📈  
-- Redução de CAC e churn 💡  
-- Decisões rápidas e baseadas em dados ⚡  
-- Entregas contínuas e escaláveis 🚀  
-
----
-
 ### 💼 Serviços
 
 1. **Coleta de Dados** → redes sociais, sites e e-commerce de forma automatizada  
