@@ -81,6 +81,14 @@ Por isso, sou especialista em transformar dados brutos em decisões estratégica
 />
 <img 
     align="left" 
+    alt="N8N" 
+    title="N8N"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://duckduckgo.com/i/0bfa7e7f032df0a3.png" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -89,11 +97,19 @@ Por isso, sou especialista em transformar dados brutos em decisões estratégica
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Looker Studio" 
+    title="Looker Studio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://images.seeklogo.com/logo-png/61/1/looker-studio-logo-png_seeklogo-617989.png" 
+/>
+<img 
+    align="left" 
+    alt="BigQuery" 
+    title="BigQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img1.pnghut.com/21/7/20/BgYtELD4YD/cloud-computing-query-language-database-big-data-area.jpg" 
 />
 <img 
     align="left" 
