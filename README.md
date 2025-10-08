@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/flcdumont/flcdumont/blob/main/bannergithub.png?raw=true" alt="Dumont Banner"/>
+  <img src="https://github.com/flcdumont/flcdumont/blob/main/bannergithub.png?raw=true" alt="Dumont Banner" width="50%"/>
 </p>
 
 # 👩🏻‍💻 Dumont
