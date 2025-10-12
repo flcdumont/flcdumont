@@ -66,7 +66,11 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 - Liderança e Gestão de Projetos  
 - Agile / Scrum  
 - Reunião Kickoff e Handoff  
-- Tradução de dados em ações estratégicas  
+- Tradução de dados em ações estratégicas
+- Breakage
+- Cultural Branding
+- Challenger Sale
+- Scripts Dinâmicos
 
 ---
 
@@ -77,7 +81,8 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 - IA / LLM / NLP (Natural Language Processing)  
 - Clusters / Segmentação / SNA (Social Network Analysis)  
 - TensorFlow, PyTorch, Spark  
-- AWS / GCP / Docker / Git / GitHub  
+- AWS / GCP / Docker / Git / GitHub
+- Data-Driven
 
 ---
 
@@ -86,7 +91,9 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 - GA4 / BigQuery  
 - Supermetrics / Narrative BI  
 - Forecast Nativo  
-- ROI Tracker  
+- ROI Tracker
+- Heatmaps
+- Multi-Touch Attribution
 
 ---
 
@@ -94,7 +101,8 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 - Zapier / Make / N8N / ActiveCampaign  
 - API WhatsApp  
 - HubSpot / Pipedrive / Zoho / CRM  
-- Git / GitHub  
+- Git / GitHub
+- Continuous Feedback
 
 ---
 
@@ -105,7 +113,16 @@ Eu converto seus dados em ações claras e resultados reais. Essa é a missão d
 - Ferramentas de agendamento (Hootsuite, Buffer)  
 - E-Commerce e Estratégias Digitais  
 - Social Media Strategy  
-- Copywriting e Storytelling  
+- Copywriting e Storytelling
+- Storyselling
+- Growth Hacking
+- CRO (Conversion Rate Optimization)
+- Customer Lifetime Value Optimization (CLV)
+- Hooked Model
+- Positioning Framework
+- Flywheel Growth Model (Modelo do Efeito Volante)
+- Social Proof Engineering
+- Zero-Party Data Strategy
 
 ---
 
