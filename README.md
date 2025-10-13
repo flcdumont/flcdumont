@@ -4,7 +4,7 @@
 
 # 👩🏻‍💻 Dumont
 
-**`💼 Analista de Dados & Consultor de Dados | Especialista em IA/LLM`**
+**`💼 Consultor de Dados e Conversão | Especialista em IA e Growth Analytics`**
 
 Referência em Data Strategy
 
